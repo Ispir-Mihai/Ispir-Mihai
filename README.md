@@ -14,8 +14,6 @@
 
 Hi, I'm [Ispir Mihai!](#), a passionate self-taught Back-End Developer 🚀 from Romania.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning to be a better Developer; 
 - 💬 Ask me about anything, I am happy to help;
