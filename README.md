@@ -27,7 +27,7 @@ Hi, I'm Ispir Mihai, a passionate self-taught developer.
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg'>
