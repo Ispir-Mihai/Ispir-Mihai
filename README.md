@@ -23,3 +23,7 @@ Hi, I'm Ispir Mihai, a passionate self-taught developer.
 ![Illustrator](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg)
 ![After Effects](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg)
 ![Blender](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg)
+
+<style>
+    img { width: 25px; }
+</style>
