@@ -11,14 +11,14 @@ Hi, I'm Ispir Mihai, a passionate self-taught developer.
 
 **Languages and Tools:**  
 
-<img style="display:inline;" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-<img style="display:inline;" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
-<img style="display:inline;" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-<img style="display:inline;" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-<img style="display:inline;" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-<img style="display:inline;" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-<img style="display:inline;" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
-<img style="display:inline;" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg">
-<img style="display:inline;" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
-<img style="display:inline;" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg">
-<img style="display:inline;" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
+!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)
+!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg)
+!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
+!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
+!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)
+!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg)
+!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg)
+!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg)
+!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg)
+!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg)
