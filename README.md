@@ -25,5 +25,5 @@ Hi, I'm Ispir Mihai, a passionate self-taught developer.
 ![Blender](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg)
 
 <style>
-    img { width: 25px; }
+    img { width: 25px; max-width: 25px; }
 </style>
