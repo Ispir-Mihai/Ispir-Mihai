@@ -23,6 +23,11 @@ Hi, I'm Ispir Mihai, a passionate self-taught developer.
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html/html-original.svg'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg'>
