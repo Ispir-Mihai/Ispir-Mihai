@@ -20,7 +20,7 @@ Hi, I'm Ispir Mihai, a passionate self-taught developer.
 
 **Languages and Tools:**  
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' width="300">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'>
