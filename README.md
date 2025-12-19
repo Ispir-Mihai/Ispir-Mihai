@@ -4,7 +4,7 @@
 
 Hi, I'm Ispir Mihai, a passionate self-taught developer.
 
-- 👨🏽‍💻 I have over 7 years of experience in C++
+- 👨🏽‍💻 I have over 8 years of experience in C++
 - 🌱 I'm working on a eCommerce platform using PHP
 - 💬 Also as a side project I'm making a game engine in C++ using OpenGl which I will later change to DirectX12
 - 📫 Reach me: [@IspirMihai](mailto:mihaimechanic@gmail.com);
